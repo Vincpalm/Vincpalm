@@ -9,3 +9,4 @@ Vincpalm/Vincpalm is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 Oggi (31/08/2022) mi soo iscritto a Github e ho  modificato  questo file inserendo questa riga.
+Sempre oggi (31/08/2022) ho notato che nella riga precedente ho commesso un errore; si può cancellare e riscrivere?
